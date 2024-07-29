@@ -1,0 +1,34 @@
+{
+    "teams":[
+        {
+            "id": "1",
+            "src": "/images/Tal.jpg",
+            "name": "Tal Kanarik",
+            "major": "Electrical Engineering   Folsom Lake College",
+            "description":"placeholder"
+        },
+        {
+            "id": "2",
+
+            "src": "/images/Kat.jpg",
+            "name": "Kat(Kexin) Chen",
+            "major": "Computer Science     Ohlone College",
+            "description": "placeholder"
+        },
+        {
+            "id": "3",
+            "src": "/images/Sharlize.gif",
+            "name": "Sharlize Lemus",
+            "major":"Mechanical Engineering Cerritos College" ,
+            "description": "placeholder"
+        },
+        {
+            "id": "4",
+            "src": "/images/Jonathan.jpg",
+            "name": "Jonathan Moreno",
+            "major":"Aerospace Engineering El Camino",
+            "description": "placeholder"
+        }
+
+    ]
+}
